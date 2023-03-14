@@ -182,14 +182,14 @@ A tool that contains the most commonly used tools that are used in the hacking p
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/falanges123/All-In-One-hacking-toolkit.git
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 All-In-One-hacking-toolkit  
     
-    cd hackingtool
+    cd All-In-One-hacking-toolkit
     
     sudo bash install.sh
     
-    sudo hackingtool
+    sudo All-In-One-hacking-toolkit
 
- After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
+ After Following All Steps Just Type In Terminal **root@kaliLinux:~** **All-In-One-hacking-toolkit**
