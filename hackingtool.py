@@ -36,8 +36,7 @@ logo = """\033[33m
   ███    ███     ███    ███ ███    ███   ███ ▀███▄ ███  ███   ███   ███    ███          ███     ███    ███ ███    ███ ███▌    ▄ 
   ███    █▀      ███    █▀  ████████▀    ███   ▀█▀ █▀    ▀█   █▀    ████████▀          ▄████▀    ▀██████▀   ▀██████▀  █████▄▄██ 
                                          ▀                                                                            ▀                             
-                                    \033[34m[✔]            Version 1.1.0               [✔]
-                                    \033[91m[X] Please Don't Use For illegal Activity  [X]
+
 \033[97m """
 
 all_tools = [
@@ -82,7 +81,7 @@ if __name__ == "__main__":
                         [1] Manual 
                         [2] Default
                 """)
-                choice = input("Z4nzu =>> ").strip()
+                choice = input("Hacking Tool =>> ").strip()
 
                 if choice == "1":
                     inpath = input("Enter Path (with Directory Name) >> ").strip()
