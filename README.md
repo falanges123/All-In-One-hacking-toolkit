@@ -192,4 +192,4 @@ A tool that contains the most commonly used tools that are used in the hacking p
     
     sudo All-In-One-hacking-toolkit
 
- After Following All Steps Just Type In Terminal **root@kaliLinux:~** **All-In-One-hacking-toolkit**
+ After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
