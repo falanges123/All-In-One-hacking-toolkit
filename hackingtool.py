@@ -26,7 +26,7 @@ from tools.wireless_attack_tools import WirelessAttackTools
 from tools.wordlist_generator import WordlistGeneratorTools
 from tools.xss_attack import XSSAttackTools
 
-logo =
+logo = """\033[33m
      ___       __       __          __  .__   __.      ______   .__   __.  _______         
     /   \     |  |     |  |        |  | |  \ |  |     /  __  \  |  \ |  | |   ____|        
    /  ^  \    |  |     |  |        |  | |   \|  |    |  |  |  | |   \|  | |  |__           
@@ -41,7 +41,7 @@ logo =
 |  |     |  `--'  | |  |\  \----.|  |____ |  |\   | .----)   |   |  | |  `----.----)   |   
 |__|      \______/  | _| `._____||_______||__| \__| |_______/    |__|  \______|_______/  
 
-
+\033 """
 
 all_tools = [
     AnonSurfTools(),
