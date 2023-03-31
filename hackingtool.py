@@ -26,7 +26,7 @@ from tools.wireless_attack_tools import WirelessAttackTools
 from tools.wordlist_generator import WordlistGeneratorTools
 from tools.xss_attack import XSSAttackTools
 
-logo = """\033[1m\033[37m
+logo =
      ___       __       __          __  .__   __.      ______   .__   __.  _______         
     /   \     |  |     |  |        |  | |  \ |  |     /  __  \  |  \ |  | |   ____|        
    /  ^  \    |  |     |  |        |  | |   \|  |    |  |  |  | |   \|  | |  |__           
@@ -40,7 +40,7 @@ logo = """\033[1m\033[37m
 |   __|  |  |  |  | |      /     |   __|  |  . `  |     \   \    |  | |  |        \   \    
 |  |     |  `--'  | |  |\  \----.|  |____ |  |\   | .----)   |   |  | |  `----.----)   |   
 |__|      \______/  | _| `._____||_______||__| \__| |_______/    |__|  \______|_______/  
-\033[0m"""
+
 
 
 all_tools = [
